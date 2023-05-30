@@ -64,7 +64,7 @@ export default ({
   return (
     <>
       <Header links={navLinks} />
-      <Container>
+      {/* <Container>
         <ContentWithVerticalPadding>
           <Row>
             <TextColumn>
@@ -97,7 +97,7 @@ export default ({
             </ImageColumn>
           </Row>
         </ContentWithVerticalPadding>
-      </Container>
-    </>
+      </Container>*/}
+    </> 
   );
 };

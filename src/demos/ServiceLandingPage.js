@@ -58,9 +58,9 @@ export default () => {
       <Testimonial 
         heading={<>Our Clients <HighlightedText>Love Us</HighlightedText></>}
       />
-      <Pricing 
+      {/* <Pricing 
         heading={<>Flexible <HighlightedText>Plans</HighlightedText></>}
-      />
+      /> */}
       <FAQ
         heading={<>Any <HighlightedText>Questions ?</HighlightedText></>}
       />
